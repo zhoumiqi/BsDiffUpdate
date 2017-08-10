@@ -1,1 +1,1 @@
-include ':app', ':bspatch_lib', ':bsdiff_server'
+include ':app', ':libbspatch', ':bsdiff_server'
