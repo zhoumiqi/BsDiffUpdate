@@ -6,6 +6,8 @@
    
    具体代码实现过程详见：http://blog.csdn.net/qq_15342987/article/details/77018418
    
+   注：bsdiff_server模块是用于编译服务端部署linux时需要的so库，app中请求的是window下的本机服务器，使用的是vs编译的dll库
+   
 实现效果如下；
     
 ![首页](diffUPdate.gif)
