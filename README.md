@@ -10,4 +10,4 @@
    
 实现效果如下；
     
-![首页](diffUPdate.gif)
+![首页](bsdiffUpdate.gif)
